@@ -2,7 +2,7 @@
 
 ## PROBLEM STATEMENT
 
-I’m a data analyst, and the Chief Marketing Officer has told that previous marketing campaigns have not been as effective as they were expected to be, need to analyze the data set to understand this problem and propose data-driven solutions.
+I’m a data analyst, and the Chief Marketing Officer has told me that previous marketing campaigns have not been as effective as they were expected to be. I need to analyze the data set to understand this problem and propose data-driven solutions.
 
 ## BRIEF
 
@@ -211,7 +211,7 @@ We have computated feature importance using Recurssive Feature Elimination metho
 
 `Anomalies:`
 
-1. Intuitively, think the more complaints a customer has, the less they may spend on our store, but the number of complaints in the last two years has almost no correlation with the total amount spent in the last two years.
+1. Intuitively, I’d think the more complaints a customer has, the less they may spend on our store, but the number of complaints in the last two years has almost no correlation with the total amount spent in the last two years.
 
-After further investigating the data, found that it is because we only have 20 customers who complained in the last two years, but we have 2200 customers in total. So, because of the imbalanced ratio, they don’t correlate. The customer service department in the company has done a wonderful job in the last two years.
+After further investigating the data, I found that it is because we only have 20 customers who complained in the last two years, but we have 2200 customers in total. So, because of the imbalanced ratio, they don’t correlate. The customer service department in the company has done a wonderful job in the last two years.
 
